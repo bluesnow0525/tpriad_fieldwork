@@ -3,10 +3,10 @@ import urllib.parse
 
 DB_CONFIG = {
     'driver': 'ODBC Driver 17 for SQL Server',
-    'server': '211.23.157.30,1433',
-    'database': 'tproad',
-    'username': 'sa',
-    'password': '69553174',
+    'server': '',
+    'database': '',
+    'username': '',
+    'password': '',
 }
 
 params = urllib.parse.quote_plus(
